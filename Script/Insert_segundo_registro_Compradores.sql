@@ -1,0 +1,2 @@
+INSERT INTO compradores( idcomprador,nombres,apellidos,correo,telefono,direccion,createdAt,updatedAt)
+VALUES (2, "Camilo", "Perdomo", "camilo@gmail.com", "3167742312", "Huasipanga", "2024-08-27 22:03:00","2024-08-27 22:06:00");
